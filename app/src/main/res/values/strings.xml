@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CloudAnchorsARDemo</string>
+    <string name="resolve">Reslove anchor</string>
+    <string name="clear">Clear anchor</string>
+    <string name="place">Place wolf</string>
+
+    <string name = "camera_permission_rationale">You need enable the camera permission in order to use camera</string>
+    <string name="cancel">Cancel</string>
+    <string name="res">Resolve</string>
+
+</resources>
